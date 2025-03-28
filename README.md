@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 Studied Computer Science at [PTIT](https://ptit.edu.vn/)<br>🌱 I’m currently learning DL, ML<br>💬 Ask me about<br>⚡ Fun fact
+👩🏻‍💻 Studied Computer Science at [PTIT](https://ptit.edu.vn/)<br>🌱 I’m currently learning DL, ML<br>
 
 
 ## 🌐 Socials:
